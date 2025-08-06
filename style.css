@@ -115,14 +115,22 @@ body {
   .box {
     font-size: 10vmin;
   }
-
   .reset,
   .new-game {
     font-size: 3vmin;
     padding: 2vmin 4vmin;
   }
-
   .winner-msg {
     font-size: 6vmin;
   }
+}
+
+.reset,
+.new-game {
+  font-size: 3vmin;
+  padding: 2vmin 4vmin;
+}
+
+.winner-msg {
+  font-size: 6vmin;
 }
